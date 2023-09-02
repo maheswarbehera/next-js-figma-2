@@ -1,0 +1,185 @@
+.nav{
+    background: var(--primary, #FFF);
+  box-shadow: 0px 4px 50px 8px rgba(0, 0, 0, 0.25);
+  }
+  #brand{
+    color: var(--text-primary, #6B59ED);
+  font-family: Courgette;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  }
+ 
+  .nav-link.active{
+    color: #6B59ED !important;
+  }
+  button.btn {
+    color: #FFF;
+    font-family: Roboto Flex;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    border-radius: 15px 15px 16px 15px;
+    background: var(--text-primary, #6B59ED);
+    line-height: normal;
+  }
+  .btn:hover{
+    background: #7e6fe4 !important;
+    color: #FFF !important;
+  }
+  .heading {
+    color: #000;
+    font-family: Poppins;
+    font-size: 53px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+  .des{
+    color: #000;
+  font-family: Raleway;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  }
+  .sec-btn {
+    color: var(--text-primary, #6B59ED) !important;
+    font-family: Roboto Flex;
+    font-size: 23px;
+    border-radius: 15px 15px 0px 15px !important;
+    border: 1px solid var(--text-primary, #6B59ED) !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: #fff !important;
+  }
+  .clg-heading {
+    color: #000;
+    font-family: Noto Serif Thai;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .tred-heading {
+    color: var(--text-heading, #3E3E3E);
+    text-align: center;
+    font-family: Arial;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  .sub-title{
+    color: #000;
+  font-family: Arial;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  }
+  .custom-btn {
+    color: var(--text-secondary, #121212)!important;
+    font-family: Roboto Flex;
+    font-size: 18px !important;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left !important;
+    line-height: normal;
+    border-radius: 15px 15px 0px 15px!important;
+    border: 1px solid var(--text-primary, #6B59ED) !important;
+    background: var(--primary, #FFF)!important;
+    width: 304px;
+    margin-bottom: 10px;
+  }
+  .card{
+    border-radius: 20px;
+  border: 0.1px solid var(--text-heading, #3E3E3E);
+  }
+  .btn-course{
+    color: #FFF !important;
+    font-family: Arial!important;
+    font-size: 7px!important;
+    font-style: normal!important;
+    font-weight: 400!important;
+    line-height: normal!important;
+  }
+  .title{
+    color: var(--text-primary, #6B59ED);
+  font-family: Arial;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  }
+  .duration{
+    color: var(--text-heading, #3E3E3E);
+  font-family: Arial;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  }
+  .link{
+    color: var(--star-yellow, #F0AD4E);
+    font-family: Arial;
+    font-size: 12px;
+    font-style: normal;
+    text-decoration: none;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .info{
+    border-radius: 20px;
+    border: 0.1px solid #cbc6c6;
+  }
+  
+  
+  .footer{
+    background: var(--background-footer, linear-gradient(180deg, #965DE8 0%, #5343C8 99.98%, rgba(150, 93, 232, 0.00) 99.99%, rgba(107, 89, 237, 0.00) 100%));
+  }
+  .footer-info {
+    color: #FFF;
+    font-family: Reem Kufi Fun;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .footer-title{
+    color: #FFF;
+    font-family: Reem Kufi Fun;
+    font-size: 25px;
+    padding: 0 0 5px 0;
+    font-style: normal;
+    border: 2px solid #fff;
+    font-weight: 400;
+    border-width: 0px 0px 2px 0px;
+    line-height: 2.5;
+  }
+  
+  
+  .contact{
+    color: var(--primary, #FFF);
+  font-family: Reem Kufi Fun;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  }
+  .copy{
+    color: #FFF;
+  font-family: Arial;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  }
+  .copyright{
+    padding-bottom: 5px;
+      border-bottom: 2px solid #fff;
+  }
+  
